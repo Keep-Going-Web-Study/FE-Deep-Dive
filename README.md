@@ -17,7 +17,7 @@
 
 ## :scroll: 스터디 그라운드 룰
 - [그라운드 룰](https://github.com/Keep-Going-Web-Study/FE-Deep-Dive/wiki/GroundRules)
-- [자료업로드](./Upload)
+- [자료업로드](https://github.com/Keep-Going-Web-Study/FE-Deep-Dive/wiki/Upload)
 - [커밋 룰](https://github.com/Keep-Going-Web-Study/FE-Deep-Dive/wiki/CommitRules)
 - [이슈 룰](https://github.com/Keep-Going-Web-Study/FE-Deep-Dive/wiki/IssueRules)
 
