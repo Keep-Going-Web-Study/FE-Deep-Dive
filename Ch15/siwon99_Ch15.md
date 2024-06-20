@@ -1,0 +1,1 @@
+[Ch.15 let, const 키워드와 블록 레벨 스코프](https://literate-close-819.notion.site/15-let-const-454a3e4735fb4dfda49494170b7d6f34?pvs=4)

@@ -1,0 +1,1 @@
+[Ch.14 전역 변수의 문제점](https://literate-close-819.notion.site/14-9ad2e56448584ec2915ae899db25c809?pvs=4)
