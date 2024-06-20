@@ -1,0 +1,1 @@
+[Ch.10 객체 리터럴](https://simple-relish-748.notion.site/Chap10-ab3370d758da4be5bc8d206aa5cb100c?pvs=4)

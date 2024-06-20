@@ -1,0 +1,1 @@
+[Ch.2 자바스크립트](https://simple-relish-748.notion.site/Chap2-ee37f25ff5234cf1ab319f3fec9e1373?pvs=4)

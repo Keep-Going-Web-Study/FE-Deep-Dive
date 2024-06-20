@@ -1,0 +1,1 @@
+[Ch.2 자바스크립트](https://literate-close-819.notion.site/02-e5ceb47960ce4b9c9e9b0c92809e7943?pvs=4)

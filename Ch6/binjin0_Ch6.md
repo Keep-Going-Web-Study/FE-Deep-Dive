@@ -1,0 +1,1 @@
+[Ch.6 데이터 타입](https://simple-relish-748.notion.site/Chap6-45b91d2121b749e59f804b6e5517bca1?pvs=4)

@@ -1,0 +1,1 @@
+[Ch.1 프로그래밍](https://simple-relish-748.notion.site/Chap1-cf1389ed8b8347ca83e4b22b9c01ea3c?pvs=4)

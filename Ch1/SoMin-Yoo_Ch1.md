@@ -1,0 +1,1 @@
+[Ch.1 프로그래밍](https://ubiquitous-gong-fcc.notion.site/Ch1-c4af16d82b304a62ac578f9b9608ea56?pvs=4)

@@ -1,0 +1,1 @@
+[Ch.1 프로그래밍](https://literate-close-819.notion.site/01-a27152ddcc334692bba0d24b567ada5b?pvs=4)
