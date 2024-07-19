@@ -7,3 +7,15 @@ assignees: ""
 ---
 
 # Questions
+
+title: '[Q] Ch'
+labels: question
+assignees: ""
+
+---
+
+### 관련 이슈:
+
+### 페이지: P
+
+---

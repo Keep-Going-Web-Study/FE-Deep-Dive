@@ -1,0 +1,1 @@
+[Ch.16 프로퍼티 어트리뷰트](https://literate-close-819.notion.site/16-da285519f03f49b1b31b38a653cde74c?pvs=4)
